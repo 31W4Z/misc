@@ -1,2 +1,2 @@
-# misc
+# Misc
 Varied information
